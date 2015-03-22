@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://chenhx1992.github.io/sitemap.xml 
